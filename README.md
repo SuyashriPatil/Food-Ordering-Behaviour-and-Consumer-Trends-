@@ -16,6 +16,7 @@ Understand customer mood and satisfaction patterns.
 Analyze cuisine preferences across different cities.
 Study the relationship between hunger level and average order value.
 Present key findings through an interactive Tableau Dashboard and Story.
+
 📌 Business Problem
 
 Food-ordering businesses generate large amounts of customer and order data. However, analyzing raw data manually makes it difficult to identify customer preferences, popular cuisines, ordering patterns, and factors affecting customer spending.
@@ -70,6 +71,7 @@ KPI Cards
 Filters
 Interactive Dashboards
 Tableau Story
+
 🎛️ Interactive Features
 
 The dashboard provides interactive filters such as:
@@ -90,6 +92,7 @@ Weekday and weekend ordering patterns show differences in customer behaviour.
 Discounts provide useful insights into promotional purchasing behaviour.
 Customer mood can provide an indication of the overall ordering experience.
 Hunger level can be associated with differences in average order value.
+
 🛠️ Tools & Technologies
 Tool	Purpose
 Tableau	Data visualization and dashboard development
@@ -101,7 +104,6 @@ Tableau Story	Presenting insights step-by-step
 📁 Repository Structure
 
 Food-Ordering-Behaviour-and-Consumer-Trends  
-  
 │  
 ├── 1. Project Initialization and Planning  
 │   ├── Define Problem Statements Template.pdf  
@@ -123,9 +125,7 @@ Food-Ordering-Behaviour-and-Consumer-Trends
 │   └── Story Design Template.pdf  
 │  
 ├── DA with Tableau Report Template.pdf  
-│  
 │    
-│  
 └── README.md
 
 
