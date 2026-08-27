@@ -97,21 +97,35 @@ Microsoft Excel / CSV	Dataset preparation and storage
 Tableau Calculated Fields	Data analysis and derived metrics
 Tableau Filters & Parameters	Interactive analysis
 Tableau Story	Presenting insights step-by-step
-📂 Project Structure
-Food-Ordering-Behaviour-and-Consumer-Trends/
-│
-├── Dataset/
-│   └── food_ordering_dataset.csv
-│
-├── Tableau/
-│   └── Food_Ordering_Behaviour.twbx
-│
-├── Dashboard/
-│   └── dashboard_screenshot.png
-│
-├── Story/
-│   └── story_screenshot.png
-│
+
+📁 Repository Structure
+
+Food-Ordering-Behaviour-and-Consumer-Trends  
+  
+│  
+├── 1. Project Initialization and Planning  
+│   ├── Define Problem Statements Template.pdf  
+│   ├── Project Proposal (Proposed Solution).pdf  
+│   └── Project Planning Template.pdf  
+│  
+├── 2. Data Collection and Preprocessing  
+│   ├── Raw Data Sources Identification.pdf  
+│   ├── Data Quality Report Template.pdf  
+│   └── Data Exploration and Preprocessing.pdf  
+│  
+├── 3. Data Visualization  
+│   └── Business Question and Visualization Report.pdf  
+│  
+├── 4. Dashboard  
+│   └── Dashboard Design Template.pdf  
+│  
+├── 5. Story  
+│   └── Story Design Template.pdf  
+│  
+├── DA with Tableau Report Template.pdf  
+│  
+│    
+│  
 └── README.md
 
 
